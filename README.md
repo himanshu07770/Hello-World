@@ -1,3 +1,3 @@
 # Hello-World
 This repository is to practice Github flow.
-Tis is my first repository.
+hTis is my first repository.
